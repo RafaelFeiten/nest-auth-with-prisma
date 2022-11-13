@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
 This project is based on [this YT video](https://www.youtube.com/watch?v=3z6Cs_PtYc0), to learn how to use NestJS Authentication and Prisma.
 
 ## Installation
